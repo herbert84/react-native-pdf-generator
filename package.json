@@ -1,29 +1,26 @@
 {
-  "name": "hz-react-native-pdf-generator",
-  "version": "1.0.0",
-  "description": "React Native Native Module Bridge Quicklock Document Viewer for IOS -Supports pdf, png, jpg, xls, ppt, doc, docx, pptx, xlx",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "react-native",
-    "pdf",
-    "generator",
-    "html to pdf",
-    "html2pdf"
-  ],
-  "author": "Herbert ZHAO",
-  "license": "MIT",
-  "dependencies": {
-    "react-native": "^0.59.9"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/herbert84/react-native-pdf-generator.git"
-  },
-  "homepage": "https://github.com/herbert84/react-native-pdf-generator/blob/master/README.md",
-  "bugs": {
-    "url": "https://github.com/herbert84/react-native-pdf-generator/issues"
-  }
+    "name": "rn-pdf-generator",
+    "version": "1.0.1",
+    "description": "React Native Native Module Bridge Quicklock Document Viewer for IOS -Supports pdf, png, jpg, xls, ppt, doc, docx, pptx, xlx",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native",
+        "pdf",
+        "generator",
+        "html to pdf",
+        "html2pdf"
+    ],
+    "author": "Jennifer Schnaible",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Finneah/react-native-pdf-generator.git"
+    },
+    "homepage": "https://github.com/Finneah/react-native-pdf-generator/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/Finneah/react-native-pdf-generator/issues"
+    }
 }

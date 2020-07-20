@@ -39,7 +39,7 @@ public class PDFtoBase64 {
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     public PDFtoBase64(PDFStore store) {
         this.store = store;
-        PrintAttributes.MediaSize mediaSize = pageType.asLandscape();
+        PrintAttributes.MediaSize mediaSize = pageType.asPortrait();
 
          attributes = new PrintAttributes.Builder()
                 .setMediaSize(mediaSize)
